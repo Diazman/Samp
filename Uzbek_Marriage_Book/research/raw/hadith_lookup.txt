@@ -1,0 +1,617 @@
+=== bukhari 5090
+bukhari 5090 (urn 142950)
+AR grade: صحيح
+AR: حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ تُنْكَحُ الْمَرْأَةُ لأَرْبَعٍ لِمَالِهَا وَلِحَسَبِهَا وَجَمَالِهَا وَلِدِينِهَا، فَاظْفَرْ بِذَاتِ الدِّينِ تَرِبَتْ يَدَاكَ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: The Prophet (ﷺ) said, "A woman is married for four things, i.e., her wealth, her family status, her beauty and her religion. So you should marry the religious woman (otherwise) you will be a losers. 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5090
+In-Book Reference: Book 67, Hadith 28
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 27 (deprecated numbering scheme)
+
+=== tirmidhi 1084
+tirmidhi 1084 (urn 711060)
+AR grade: 
+AR: حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ سُلَيْمَانَ، عَنِ ابْنِ عَجْلاَنَ، عَنِ ابْنِ وَثِيمَةَ النَّصْرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ إِذَا خَطَبَ إِلَيْكُمْ مَنْ تَرْضَوْنَ دِينَهُ وَخُلُقَهُ فَزَوِّجُوهُ إِلاَّ تَفْعَلُوا تَكُنْ فِتْنَةٌ فِي الأَرْضِ وَفَسَادٌ عَرِيضٌ ‏ ‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي حَاتِمٍ الْمُزَنِيِّ وَعَائِشَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ قَدْ خُولِفَ عَبْدُ الْحَمِيدِ بْنُ سُلَيْمَانَ فِي هَذَا الْحَدِيثِ ‏.‏ فَرَوَاهُ اللَّيْثُ بْنُ سَعْدٍ عَنِ ابْنِ عَجْلاَنَ عَنْ عَبْدِ اللَّهِ بْنِ هُرْمُزَ عَنِ النَّبِيِّ صلى الله عليه وسلم مُرْسَلاً ‏.‏ قَالَ أَبُو عِيسَى قَالَ مُحَمَّدٌ وَحَدِيثُ اللَّيْثِ أَشْبَهُ ‏.‏ وَلَمْ يَعُدَّ حَدِيثَ عَبْدِ الْحَمِيدِ مَحْفُوظًا ‏.‏
+EN: Abu Hurairah narrated that: The Messenger of Allah said: "When someone whose religion and character you are pleased with proposes to (someone under the care) of one of you, then marry to him. If you do not do so, then there will be turmoil (Fitnah) in the land and abounding discord (Fasad)." 
+EN grade: Da'if (Darussalam) 
+REF: Jami` at-Tirmidhi, 1084
+In-Book Reference: Book 11, Hadith 5
+English Reference: Vol. 2, Book 6, Hadith 1084
+
+=== muslim 1467
+NOT FOUND
+=== muslim 1469
+muslim 1469 (urn 337450)
+AR grade: صحيح
+AR:  وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، حَدَّثَنَا عِمْرَانُ بْنُ أَبِي أَنَسٍ، عَنْ عُمَرَ بْنِ الْحَكَمِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏ 
+EN:  A hadith like this has been narrated on the authority of Abu Huraira (Allah be pleased with him). 
+EN grade: Sahih
+REF: Sahih Muslim, 1469
+In-Book Reference: Book 17, Hadith 82
+USC-MSA web (English) reference: Book 8, Hadith 3470 (deprecated numbering scheme)
+
+=== bukhari 5199
+bukhari 5199 (urn 144010)
+AR grade: صحيح
+AR:  حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ يَا عَبْدَ اللَّهِ أَلَمْ أُخْبَرْ أَنَّكَ تَصُومُ النَّهَارَ وَتَقُومُ اللَّيْلَ ‏"‏‏.‏ قُلْتُ بَلَى يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏"‏ فَلاَ تَفْعَلْ، صُمْ وَأَفْطِرْ، وَقُمْ وَنَمْ، فَإِنَّ لِجَسَدِكَ عَلَيْكَ حَقًّا، وَإِنَّ لِعَيْنِكَ عَلَيْكَ حَقًّا، وَإِنَّ لِزَوْجِكَ عَلَيْكَ حَقًّا ‏"‏‏.‏ 
+EN: Narrated `Abdullah bin `Amr bin Al-`As: Allah's Messenger (ﷺ)  said, "O `Abdullah! Have I not been formed that you fast all the day and stand in prayer all night?" I said, "Yes, O Allah's Messenger (ﷺ) !" He said, "Do not do that! Observe the fast sometimes and also leave them (the fast) at other times; stand up for the prayer at night and also sleep at night. Your body has a right over you, your eyes have a right over you and your wife has a right over you." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5199
+In-Book Reference: Book 67, Hadith 133
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 127 (deprecated numbering scheme)
+
+=== bukhari 676
+bukhari 676 (urn 184760)
+AR grade: صحيح
+AR:  حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا الْحَكَمُ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، قَالَ سَأَلْتُ عَائِشَةَ مَا كَانَ النَّبِيُّ صلى الله عليه وسلم يَصْنَعُ فِي بَيْتِهِ قَالَتْ كَانَ يَكُونُ فِي مِهْنَةِ أَهْلِهِ ـ تَعْنِي خِدْمَةَ أَهْلِهِ ـ فَإِذَا حَضَرَتِ الصَّلاَةُ خَرَجَ إِلَى الصَّلاَةِ‏.‏ 
+EN: Narrated Al-Aswad: That he asked `Aisha "What did the Prophet (ﷺ) use to do in his house?" She replied, "He used to keep himself busy serving his family and when it was the time for prayer he would go for it." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 676
+In-Book Reference: Book 10, Hadith 70
+USC-MSA web (English) reference: Vol. 1, Book 11, Hadith 644 (deprecated numbering scheme)
+
+=== muslim 2328
+NOT FOUND
+=== abudawud 2146
+abudawud 2146 (urn 921490)
+AR grade: صحيح (الألباني) 
+AR:  حَدَّثَنَا أَحْمَدُ بْنُ أَبِي خَلَفٍ، وَأَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، - قَالَ ابْنُ السَّرْحِ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ - عَنْ إِيَاسِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي ذُبَابٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لاَ تَضْرِبُوا إِمَاءَ اللَّهِ ‏"‏ ‏.‏ فَجَاءَ عُمَرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ذَئِرْنَ النِّسَاءُ عَلَى أَزْوَاجِهِنَّ ‏.‏ فَرَخَّصَ فِي ضَرْبِهِنَّ فَأَطَافَ بِآلِ رَسُولِ اللَّهِ صلى الله عليه وسلم نِسَاءٌ كَثِيرٌ يَشْكُونَ أَزْوَاجَهُنَّ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ لَقَدْ طَافَ بِآلِ مُحَمَّدٍ نِسَاءٌ كَثِيرٌ يَشْكُونَ أَزْوَاجَهُنَّ لَيْسَ أُولَئِكَ بِخِيَارِكُمْ ‏"‏ ‏.‏ 
+EN: Iyas ibn Abdullah ibn Abu Dhubab reported the Messenger of Allah (ﷺ) as saying: Do not beat Allah's handmaidens, but when Umar came to the Messenger of Allah (ﷺ) and said: Women have become emboldened towards their husbands, he (the Prophet) gave permission to beat them. Then many women came round the family of the Messenger of Allah (ﷺ) complaining against their husbands. So the Messenger of Allah (ﷺ) said: Many women have gone round Muhammad's family complaining against their husbands. They are not the best among you. 
+EN grade: Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 2146
+In-Book Reference: Book 12, Hadith 101
+English Reference: Book 11, Hadith 2141
+
+=== bukhari 893
+bukhari 893 (urn 107790)
+AR grade: صحيح
+AR:  حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنَا سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ كُلُّكُمْ رَاعٍ ‏"‏‏.‏ وَزَادَ اللَّيْثُ قَالَ يُونُسُ كَتَبَ رُزَيْقُ بْنُ حُكَيْمٍ إِلَى ابْنِ شِهَابٍ ـ وَأَنَا مَعَهُ يَوْمَئِذٍ بِوَادِي الْقُرَى ـ هَلْ تَرَى أَنْ أُجَمِّعَ‏.‏ وَرُزَيْقٌ عَامِلٌ عَلَى أَرْضٍ يَعْمَلُهَا، وَفِيهَا جَمَاعَةٌ مِنَ السُّودَانِ وَغَيْرِهِمْ، وَرُزَيْقٌ يَوْمَئِذٍ عَلَى أَيْلَةَ، فَكَتَبَ ابْنُ شِهَابٍ ـ وَأَنَا أَسْمَعُ ـ يَأْمُرُهُ أَنْ يُجَمِّعَ، يُخْبِرُهُ أَنَّ سَالِمًا حَدَّثَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ كُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ، الإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهْوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا، وَالْخَادِمُ رَاعٍ فِي مَالِ سَيِّدِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ ـ قَالَ وَحَسِبْتُ أَنْ قَدْ قَالَ ـ وَالرَّجُلُ رَاعٍ فِي مَالِ أَبِيهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ وَكُلُّكُمْ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ ‏"‏‏.‏ 
+EN: Narrated Ibn `Umar: I heard Allah's Messenger (ﷺ)  saying, "All of you are Guardians." Yunis said: Ruzaiq bin Hukaim wrote to Ibn Shihab while I was with him at Wadi-al-Qura saying, "Shall I lead the Jumua prayer?" Ruzaiq was working on the land (i.e. farming) and there was a group of Sudanese people and some others with him; Ruzaiq was then the Governor of Aila. Ibn Shihab wrote (to Ruzaiq) ordering him to lead the Jumua prayer and telling him that Salim told him that `Abdullah bin `Umar had said, "I heard Allah's Messenger (ﷺ)  saying, 'All of you are guardians and responsible for your wards and the things under your care. The Imam (i.e. ruler) is the guardian of his subjects and is responsible for them and a man is the guardian of his family and is responsible for them. A woman is the guardian of her husband's house and is responsible for it. A servant is the guardian of his master's belongings and is responsible for them.' I thought that he also said, 'A man is the guardian of his father's property and is responsible for it. All of you are guardians and responsible for your wards and the things under your care." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 893
+In-Book Reference: Book 11, Hadith 18
+USC-MSA web (English) reference: Vol. 2, Book 13, Hadith 18 (deprecated numbering scheme)
+
+=== bukhari 6114
+bukhari 6114 (urn 174290)
+AR grade: صحيح
+AR: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ ‏ لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: Allah's Messenger (ﷺ)  said, "The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 6114
+In-Book Reference: Book 78, Hadith 141
+USC-MSA web (English) reference: Vol. 8, Book 73, Hadith 135 (deprecated numbering scheme)
+
+=== bukhari 6116
+bukhari 6116 (urn 174310)
+AR grade: صحيح
+AR:  حَدَّثَنِي يَحْيَى بْنُ يُوسُفَ، أَخْبَرَنَا أَبُو بَكْرٍ ـ هُوَ ابْنُ عَيَّاشٍ ـ عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَجُلاً، قَالَ لِلنَّبِيِّ صلى الله عليه وسلم أَوْصِنِي‏.‏ قَالَ ‏"‏ لاَ تَغْضَبْ ‏"‏‏.‏ فَرَدَّدَ مِرَارًا، قَالَ ‏"‏ لاَ تَغْضَبْ ‏"‏‏.‏ 
+EN: Narrated Abu Huraira: A man said to the Prophet (ﷺ) , "Advise me! "The Prophet (ﷺ) said, "Do not become angry and furious." The man asked (the same) again and again, and the Prophet (ﷺ) said in each case, "Do not become angry and furious." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 6116
+In-Book Reference: Book 78, Hadith 143
+USC-MSA web (English) reference: Vol. 8, Book 73, Hadith 137 (deprecated numbering scheme)
+
+=== abudawud 4782
+abudawud 4782 (urn 947850)
+AR grade: صحيح (الألباني) 
+AR: حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، عَنْ أَبِي حَرْبِ بْنِ الأَسْوَدِ، عَنْ أَبِي ذَرٍّ، قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَنَا ‏ ‏ إِذَا غَضِبَ أَحَدُكُمْ وَهُوَ قَائِمٌ فَلْيَجْلِسْ فَإِنْ ذَهَبَ عَنْهُ الْغَضَبُ وَإِلاَّ فَلْيَضْطَجِعْ ‏ ‏ ‏.‏
+EN: Narrated AbuDharr: The Messenger of Allah (ﷺ) said to us: When one of you becomes angry while standing, he should sit down. If the anger leaves him, well and good; otherwise he should lie down. 
+EN grade: Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 4782
+In-Book Reference: Book 43, Hadith 10
+English Reference: Book 42, Hadith 4764
+
+=== muslim 2593
+muslim 2593 (urn 368040)
+AR grade: صحيح
+AR: حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى التُّجِيبِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ، حَدَّثَنِي
+ابْنُ الْهَادِ، عَنْ أَبِي بَكْرِ بْنِ حَزْمٍ، عَنْ عَمْرَةَ، - يَعْنِي بِنْتَ عَبْدِ الرَّحْمَنِ - عَنْ عَائِشَةَ، زَوْجِ
+النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ ‏ يَا عَائِشَةُ إِنَّ اللَّهَ
+رَفِيقٌ يُحِبُّ الرِّفْقَ وَيُعْطِي عَلَى الرِّفْقِ مَا لاَ يُعْطِي عَلَى الْعُنْفِ وَمَا لاَ يُعْطِي عَلَى مَا سِوَاهُ
+‏ ‏ ‏.‏
+EN: 'A'isha, the wife of Allah's Messenger (ﷺ), reported that Allah's Messenger (ﷺ) said: 'A'isha, verily Allah is kind and He loves kindness and confers upon kindness which he does not confer upon severity and does not confer upon anything else besides it (kindness). 
+EN grade: Sahih
+REF: Sahih Muslim, 2593
+In-Book Reference: Book 45, Hadith 99
+USC-MSA web (English) reference: Book 32, Hadith 6273 (deprecated numbering scheme)
+
+=== muslim 2594
+NOT FOUND
+=== bukhari 56
+bukhari 56 (urn 100560)
+AR grade: صحيح
+AR: حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ قَالَ أَخْبَرَنَا شُعَيْبٌ عَنْ الزُّهْرِيِّ قَالَ حَدَّثَنِي عَامِرُ بْنُ سَعْدٍ عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ أَنَّهُ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّكَ لَنْ تُنْفِقَ نَفَقَةً تَبْتَغِي بِهَا وَجْهَ اللَّهِ إِلَّا أُجِرْتَ عَلَيْهَا حَتَّى مَا تَجْعَلُ فِي فَمِ امْرَأَتِكَ 
+EN: Narrated Sa'd bin Abi Waqqas: Allah's Messenger (ﷺ)  said, "You will be rewarded for whatever you spend for Allah's sake even if it were a morsel which you put in your wife's mouth." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 56
+In-Book Reference: Book 2, Hadith 49
+USC-MSA web (English) reference: Vol. 1, Book 2, Hadith 54 (deprecated numbering scheme)
+
+=== muslim 995
+muslim 995 (urn 323570)
+AR grade: صحيح
+AR: حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لأَبِي كُرَيْبٍ - قَالُوا حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ مُزَاحِمِ بْنِ زُفَرَ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ دِينَارٌ أَنْفَقْتَهُ فِي سَبِيلِ اللَّهِ وَدِينَارٌ أَنْفَقْتَهُ فِي رَقَبَةٍ وَدِينَارٌ تَصَدَّقْتَ بِهِ عَلَى مِسْكِينٍ وَدِينَارٌ أَنْفَقْتَهُ عَلَى أَهْلِكَ أَعْظَمُهَا أَجْرًا الَّذِي أَنْفَقْتَهُ عَلَى أَهْلِكَ ‏ ‏ ‏.‏
+EN: Abu Huraira reported Allah's Messenger (ﷺ) as saying: Of the dinar you spend as a contribution in Allah's path, or to set free a slave, or as a sadaqa given to a needy, or to support your family, the one yielding the greatest reward is that which you spent on your family. 
+EN grade: Sahih
+REF: Sahih Muslim, 995
+In-Book Reference: Book 12, Hadith 48
+USC-MSA web (English) reference: Book 5, Hadith 2181 (deprecated numbering scheme)
+
+=== muslim 1006
+muslim 1006 (urn 323750)
+AR grade: صحيح
+AR:  حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا مَهْدِيُّ بْنُ مَيْمُونٍ، حَدَّثَنَا وَاصِلٌ، مَوْلَى أَبِي عُيَيْنَةَ عَنْ يَحْيَى بْنِ عُقَيْلٍ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي، ذَرٍّ أَنَّ نَاسًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالُوا لِلنَّبِيِّ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ ذَهَبَ أَهْلُ الدُّثُورِ بِالأُجُورِ يُصَلُّونَ كَمَا نُصَلِّي وَيَصُومُونَ كَمَا نَصُومُ وَيَتَصَدَّقُونَ بِفُضُولِ أَمْوَالِهِمْ ‏.‏ قَالَ ‏"‏ أَوَلَيْسَ قَدْ جَعَلَ اللَّهُ لَكُمْ مَا تَصَّدَّقُونَ إِنَّ بِكُلِّ تَسْبِيحَةٍ صَدَقَةً وَكُلِّ تَكْبِيرَةٍ صَدَقَةٌ وَكُلِّ تَحْمِيدَةٍ صَدَقَةٌ وَكُلِّ تَهْلِيلَةٍ صَدَقَةٌ وَأَمْرٌ بِالْمَعْرُوفِ صَدَقَةٌ وَنَهْىٌ عَنْ مُنْكَرٍ صَدَقَةٌ وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ ‏"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ أَيَأْتِي أَحَدُنَا شَهْوَتَهُ وَيَكُونُ لَهُ فِيهَا أَجْرٌ قَالَ ‏"‏ أَرَأَيْتُمْ لَوْ وَضَعَهَا فِي حَرَامٍ أَكَانَ عَلَيْهِ فِيهَا وِزْرٌ فَكَذَلِكَ إِذَا وَضَعَهَا فِي الْحَلاَلِ كَانَ لَهُ أَجْرٌ ‏"‏ ‏.‏ 
+EN: Abu Dharr reported: some of the people from among the Companions of the Messenger of Allah (ﷺ) said to him: Messenger of Allah, the rich have taken away (all the) reward. They observe prayer as we do; they keep the fasts as we keep, and they give Sadaqa out of their surplus riches. Upon this he (the Prophet) said: Has Allah not prescribed for you (a course) by following which you can (also) do sadaqa? In every declaration of the glorification of Allah (i. e. saying Subhan Allah) there is a Sadaqa, and every Takbir (i. e. saying Allah-O-Akbar) is a sadaqa, and every praise of His (saying al-Hamdu Lillah) is a Sadaqa and every declaration that He is One (La illha ill-Allah) is a sadaqa, and enjoining of good is a sadaqa, and forbidding of that which is evil is a Sadaqa, and in man's sexual Intercourse (with his wife, ) there is a Sadaqa. They (the Companions) said: Messenger of Allah, is there reward for him who satisfies his sexual passion among us? He said: Tell me, if he were to devote it to something forbidden, would it not be a sin on his part? Similarly, if he were to devote it to something lawful, he should have a reward. 
+EN grade: Sahih
+REF: Sahih Muslim, 1006
+In-Book Reference: Book 12, Hadith 66
+USC-MSA web (English) reference: Book 5, Hadith 2198 (deprecated numbering scheme)
+
+=== bukhari 5189
+bukhari 5189 (urn 143910)
+AR grade: صحيح
+AR: حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ جَلَسَ إِحْدَى عَشْرَةَ امْرَأَةً، فَتَعَاهَدْنَ وَتَعَاقَدْنَ أَنْ لاَ يَكْتُمْنَ مِنْ أَخْبَارِ أَزْوَاجِهِنَّ شَيْئًا‏.‏ قَالَتِ الأُولَى زَوْجِي لَحْمُ جَمَلٍ، غَثٌّ عَلَى رَأْسِ جَبَلٍ، لاَ سَهْلٍ فَيُرْتَقَى، وَلاَ سَمِينٍ فَيُنْتَقَلُ‏.‏ قَالَتِ الثَّانِيَةُ زَوْجِي لاَ أَبُثُّ خَبَرَهُ، إِنِّي أَخَافُ أَنْ لاَ أَذَرَهُ، إِنْ أَذْكُرْهُ أَذْكُرْ عُجَرَهُ وَبُجَرَهُ‏.‏ قَالَتِ الثَّالِثَةُ زَوْجِي الْعَشَنَّقُ، إِنْ أَنْطِقْ أُطَلَّقْ وَإِنْ أَسْكُتْ أُعَلَّقْ‏.‏ قَالَتِ الرَّابِعَةُ زَوْجِي كَلَيْلِ تِهَامَةَ، لاَ حَرٌّ، وَلاَ قُرٌّ، وَلاَ مَخَافَةَ، وَلاَ سَآمَةَ‏.‏ قَالَتِ الْخَامِسَةُ زَوْجِي إِنْ دَخَلَ فَهِدَ، وَإِنْ خَرَجَ أَسِدَ، وَلاَ يَسْأَلُ عَمَّا عَهِدَ‏.‏ قَالَتِ السَّادِسَةُ زَوْجِي إِنْ أَكَلَ لَفَّ، وَإِنْ شَرِبَ اشْتَفَّ، وَإِنِ اضْطَجَعَ الْتَفَّ، وَلاَ يُولِجُ الْكَفَّ لِيَعْلَمَ الْبَثَّ، قَالَتِ السَّابِعَةُ زَوْجِي غَيَايَاءُ أَوْ عَيَايَاءُ طَبَاقَاءُ، كُلُّ دَاءٍ لَهُ دَاءٌ، شَجَّكِ أَوْ فَلَّكِ أَوْ جَمَعَ كُلاًّ لَكِ‏.‏ قَالَتِ الثَّامِنَةُ زَوْجِي الْمَسُّ مَسُّ أَرْنَبٍ، وَالرِّيحُ رِيحُ زَرْنَبٍ‏.‏ قَالَتِ التَّاسِعَةُ زَوْجِي رَفِيعُ الْعِمَادِ، طَوِيلُ النِّجَادِ، عَظِيمُ الرَّمَادِ، قَرِيبُ الْبَيْتِ مِنَ النَّادِ‏.‏ قَالَتِ الْعَاشِرَةُ زَوْجِي مَالِكٌ وَمَا مَالِكٌ، مَالِكٌ خَيْرٌ مِنْ ذَلِكِ، لَهُ إِبِلٌ كَثِيرَاتُ الْمَبَارِكِ قَلِيلاَتُ الْمَسَارِحِ، وَإِذَا سَمِعْنَ صَوْتَ الْمِزْهَرِ أَيْقَنَّ أَنَّهُنَّ هَوَالِكُ‏.‏ قَالَتِ الْحَادِيَةَ عَشْرَةَ زَوْجِي أَبُو زَرْعٍ فَمَا أَبُو زَرْعٍ أَنَاسَ مِنْ حُلِيٍّ أُذُنَىَّ، وَمَلأَ مِنْ شَحْمٍ عَضُدَىَّ، وَبَجَّحَنِي فَبَجِحَتْ إِلَىَّ نَفْسِي، وَجَدَنِي فِي أَهْلِ غُنَيْمَةٍ بِشِقٍّ، فَجَعَلَنِي فِي أَهْلِ صَهِيلٍ وَأَطِيطٍ وَدَائِسٍ وَمُنَقٍّ، فَعِنْدَهُ أَقُولُ فَلاَ أُقَبَّحُ وَأَرْقُدُ فَأَتَصَبَّحُ، وَأَشْرَبُ فَأَتَقَنَّحُ، أُمُّ أَبِي زَرْعٍ فَمَا أُمُّ أَبِي زَرْعٍ عُكُومُهَا رَدَاحٌ، وَبَيْتُهَا فَسَاحٌ، ابْنُ أَبِي زَرْعٍ، فَمَا ابْنُ أَبِي زَرْعٍ مَضْجِعُهُ كَمَسَلِّ شَطْبَةٍ، وَيُشْبِعُهُ ذِرَاعُ الْجَفْرَةِ، بِنْتُ أَبِي زَرْعٍ فَمَا بِنْتُ أَبِي زَرْعٍ طَوْعُ أَبِيهَا، وَطَوْعُ أُمِّهَا، وَمِلْءُ كِسَائِهَا، وَغَيْظُ جَارَتِهَا، جَارِيَةُ أَبِي زَرْعٍ، فَمَا جَارِيَةُ أَبِي زَرْعٍ لاَ تَبُثُّ حَدِيثَنَا تَبْثِيثًا، وَلاَ تُنَقِّثُ مِيرَتَنَا تَنْقِيثًا، وَلاَ تَمْلأُ بَيْتَنَا تَعْشِيشًا، قَالَتْ خَرَجَ أَبُو زَرْعٍ وَالأَوْطَابُ تُمْخَضُ، فَلَقِيَ امْرَأَةً مَعَهَا وَلَدَانِ لَهَا كَالْفَهْدَيْنِ يَلْعَبَانِ مِنْ تَحْتِ خَصْرِهَا بِرُمَّانَتَيْنِ، فَطَلَّقَنِي وَنَكَحَهَا، فَنَكَحْتُ بَعْدَهُ رَجُلاً سَرِيًّا، رَكِبَ شَرِيًّا وَأَخَذَ خَطِّيًّا وَأَرَاحَ عَلَىَّ نَعَمًا ثَرِيًّا، وَأَعْطَانِي مِنْ كُلِّ رَائِحَةٍ زَوْجًا وَقَالَ كُلِي أُمَّ زَرْعٍ، وَمِيرِي أَهْلَكِ‏.‏ قَالَتْ فَلَوْ جَمَعْتُ كُلَّ شَىْءٍ أَعْطَانِيهِ مَا بَلَغَ أَصْغَرَ آنِيَةِ أَبِي زَرْعٍ‏.‏ قَالَتْ عَائِشَةُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ كُنْتُ لَكِ كَأَبِي زَرْعٍ لأُمِّ زَرْعٍ ‏ ‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ قَالَ سَعِيدُ بْنُ سَلَمَةَ عَنْ هِشَامٍ وَلاَ تُعَشِّشُ بَيْتَنَا تَعْشِيشًا‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ قَالَ بَعْضُهُمْ فَأَتَقَمَّحُ‏.‏ بِالْمِيمِ، وَهَذَا أَصَحُّ‏.‏
+EN: Narrated `Aisha: Eleven women sat (at a place) and promised and contracted that they would not conceal anything of the news of their husbands. The first one said, "My husband is like the meat of a slim weak camel which is kept on the top of a mountain which is neither easy to climb, nor is the meat fat, so that one might put up with the trouble of fetching it." The second one said, "I shall not relate my husband's news, for I fear that I may not be able to finish his story, for if I describe him, I will mention all his defects and bad traits." The third one said, "My husband, the "too-tall"! if I describe him (and he hears of that) he will divorce me, and if I keep quiet, he will keep me hanging (neither divorcing me nor treating me as a wife)." The fourth one said, "My husband is (moderate in temper) like the night of Tihama: neither hot nor cold; I am neither afraid of him, nor am I discontented with him." The fifth one said, "My husband, when entering (the house) is a leopard (sleeps a lot), and when going out, is a lion (boasts a lot). He does not ask about whatever is in the house." The sixth one said, "If my husband eats, he eats too much (leaving the dishes empty), and if he drinks he leaves nothing; if he sleeps he sleeps he rolls himself (alone in our blankets); and he does not insert his palm to inquire about my feelings." The seventh one said, "My husband is a wrong-doer or weak and foolish. All the defects are present in him. He may injure your head or your body or may do both." The eighth one said, "My husband is soft to touch like a rabbit and smells like a Zarnab (a kind of good smelling grass)." The ninth one said, "My husband is a tall generous man wearing a long strap for carrying his sword. His ashes are abundant (i.e. generous to his guests) and his house is near to the people (who would easily consult him)." The tenth one said, "My husband is Malik (possessor), and what is Malik? Malik is greater than whatever I say about him. (He is beyond and above all praises which can come to my mind). Most of his camels are kept at home (ready to be slaughtered for the guests) and only a few are taken to the pastures. When the camels hear the sound of the lute (or the tambourine) they realize that they are going to be slaughtered for the guests." The eleventh one said, "My husband is Abu Zar` and what is Abu Zar` (i.e., what should I say about him)? He has given me many ornaments and my ears are heavily loaded with them and my arms have become fat (i.e., I have become fat). And he has pleased me, and I have become so happy that I feel proud of myself. He found me with my family who were mere owners of sheep and living in poverty, and brought me to a respected family having horses and camels and threshing and purifying grain. Whatever I say, he does not rebuke or insult me. When I sleep, I sleep till late in the morning, and when I drink water (or milk), I drink my fill. The mother of Abu Zar and what may one say in praise of the mother of Abu Zar? Her saddle bags were always full of provision and her house was spacious. As for the son of Abu Zar, what may one say of the son of Abu Zar? His bed is as narrow as an unsheathed sword and an arm of a kid (of four months) satisfies his hunger. As for the daughter of Abu Zar, she is obedient to her father and to her mother. She has a fat well-built body and that arouses the jealousy of her husband's other wife. As for the (maid) slave girl of Abu Zar, what may one say of the (maid) slavegirl of Abu Zar? She does not uncover our secrets but keeps them, and does not waste our provisions and does not leave the rubbish scattered everywhere in our house." The eleventh lady added, "One day it so happened that Abu Zar went out at the time when the milk was being milked from the animals, and he saw a woman who had two sons like two leopards playing with her two breasts. (On seeing her) he divorced me and married her. Thereafter I married a noble man who used to ride a fast tireless horse and keep a spear in his hand. He gave me many things, and also a pair of every kind of livestock and said, Eat (of this), O Um Zar, and give provision to your relatives." She added, "Yet, all those things which my second husband gave me could not fill the smallest utensil of Abu Zar's." `Aisha then said: Allah's Messenger (ﷺ)  said to me, "I am to you as Abu Zar was to his wife Um Zar." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5189
+In-Book Reference: Book 67, Hadith 123
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 117 (deprecated numbering scheme)
+
+=== abudawud 2578
+abudawud 2578 (urn 925810)
+AR grade: صحيح (الألباني) 
+AR: حَدَّثَنَا أَبُو صَالِحٍ الأَنْطَاكِيُّ، مَحْبُوبُ بْنُ مُوسَى أَخْبَرَنَا أَبُو إِسْحَاقَ، - يَعْنِي الْفَزَارِيَّ - عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، وَعَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، رَضِيَ اللَّهُ عَنْهَا أَنَّهَا كَانَتْ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ قَالَتْ فَسَابَقْتُهُ فَسَبَقْتُهُ عَلَى رِجْلَىَّ فَلَمَّا حَمَلْتُ اللَّحْمَ سَابَقْتُهُ فَسَبَقَنِي فَقَالَ ‏ ‏ هَذِهِ بِتِلْكَ السَّبْقَةِ ‏ ‏ ‏.‏
+EN: Narrated Aisha, Ummul Mu'minin: while she was on a journey along with the Messenger of Allah (ﷺ): I had a race with him (the Prophet) and I outstripped him on my feet. When I became fleshy, (again) I had a race with him (the Prophet) and he outstripped me. He said: This is for that outstripping. 
+EN grade: Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 2578
+In-Book Reference: Book 15, Hadith 102
+English Reference: Book 14, Hadith 2572
+
+=== ibnmajah 1979
+ibnmajah 1979 (urn 1320560)
+AR grade: 
+AR:  حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ سَابَقَنِي النَّبِيُّ ـ صلى الله عليه وسلم ـ فَسَبَقْتُهُ ‏.‏ 
+EN: It was narrated that 'Aishah said: "The Prophet (ﷺ) raced with me and I beat him." 
+EN grade: Sahih (Darussalam) 
+REF: Sunan Ibn Majah, 1979
+In-Book Reference: Book 9, Hadith 135
+English Reference: Vol. 3, Book 9, Hadith 1979
+
+=== bukhari 5228
+bukhari 5228 (urn 144300)
+AR grade: صحيح
+AR:  حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنِّي لأَعْلَمُ إِذَا كُنْتِ عَنِّي رَاضِيَةً، وَإِذَا كُنْتِ عَلَىَّ غَضْبَى ‏"‏‏.‏ قَالَتْ فَقُلْتُ مِنْ أَيْنَ تَعْرِفُ ذَلِكَ فَقَالَ ‏"‏ أَمَّا إِذَا كُنْتِ عَنِّي رَاضِيَةً فَإِنَّكِ تَقُولِينَ لاَ وَرَبِّ مُحَمَّدٍ، وَإِذَا كُنْتِ غَضْبَى قُلْتِ لاَ وَرَبِّ إِبْرَاهِيمَ ‏"‏‏.‏ قَالَتْ قُلْتُ أَجَلْ وَاللَّهِ يَا رَسُولَ اللَّهِ، مَا أَهْجُرُ إِلاَّ اسْمَكَ‏.‏ 
+EN: Narrated Aisha: That Allah's Messenger (ﷺ)  said to her, "I know when you are pleased with me or angry with me." I said, "Whence do you know that?" He said, "When you are pleased with me, you say, 'No, by the Lord of Muhammad,' but when you are angry with me, then you say, 'No, by the Lord of Abraham.' " Thereupon I said, "Yes (you are right), but by Allah, O Allah's Messenger (ﷺ) , I leave nothing but your name." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5228
+In-Book Reference: Book 67, Hadith 161
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 155 (deprecated numbering scheme)
+
+=== muslim 2435
+NOT FOUND
+=== muslim 300
+muslim 300 (urn 307180)
+AR grade: صحيح
+AR:  حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، وَسُفْيَانَ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَشْرَبُ وَأَنَا حَائِضٌ، ثُمَّ أُنَاوِلُهُ النَّبِيَّ صلى الله عليه وسلم فَيَضَعُ فَاهُ عَلَى مَوْضِعِ فِيَّ فَيَشْرَبُ وَأَتَعَرَّقُ الْعَرْقَ وَأَنَا حَائِضٌ ثُمَّ أُنَاوِلُهُ النَّبِيَّ صلى الله عليه وسلم فَيَضَعُ فَاهُ عَلَى مَوْضِعِ فِيَّ ‏.‏ وَلَمْ يَذْكُرْ زُهَيْرٌ فَيَشْرَبُ ‏.‏ 
+EN: 'A'isha reported: I would drink when I was menstruating, then I would hand it (the vessel) to the Messenger (ﷺ) and he would put his mouth where mine had been, and drink, and I would eat flesh from a bone when I was menstruating, then hand it over to the Messenger (ﷺ) and he would put his mouth where mine had been. Zuhair made no mention of (the Prophet's) drinking. 
+EN grade: Sahih
+REF: Sahih Muslim, 300
+In-Book Reference: Book 3, Hadith 14
+USC-MSA web (English) reference: Book 3, Hadith 590 (deprecated numbering scheme)
+
+=== bukhari 6018
+bukhari 6018 (urn 173250)
+AR grade: صحيح
+AR: حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: Allah's Messenger (ﷺ)  said, "Anybody who believes in Allah and the Last Day should not harm his neighbor, and anybody who believes in Allah and the Last Day should entertain his guest generously and anybody who believes in Allah and the Last Day should talk what is good or keep quiet. (i.e. abstain from all kinds of evil and dirty talk). 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 6018
+In-Book Reference: Book 78, Hadith 49
+USC-MSA web (English) reference: Vol. 8, Book 73, Hadith 47 (deprecated numbering scheme)
+
+=== bukhari 33
+bukhari 33 (urn 100330)
+AR grade: صحيح
+AR: حَدَّثَنَا سُلَيْمَانُ أَبُو الرَّبِيعِ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: The Prophet (ﷺ) said, "The signs of a hypocrite are three:
+
+1. Whenever he speaks, he tells a lie.
+
+2. Whenever he promises, he always breaks it (his promise ).
+
+3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)" 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 33
+In-Book Reference: Book 2, Hadith 26
+USC-MSA web (English) reference: Vol. 1, Book 2, Hadith 33 (deprecated numbering scheme)
+
+=== bukhari 6064
+bukhari 6064 (urn 173720)
+AR grade: صحيح
+AR: حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ إِيَّاكُمْ وَالظَّنَّ، فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ، وَلاَ تَحَسَّسُوا، وَلاَ تَجَسَّسُوا، وَلاَ تَحَاسَدُوا، وَلاَ تَدَابَرُوا، وَلاَ تَبَاغَضُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا ‏ ‏‏.‏
+EN: Narrated Abu Huraira: The Prophet (ﷺ) said, "Beware of suspicion, for suspicion is the worst of false tales; and do not look for the others' faults and do not spy, and do not be jealous of one another, and do not desert (cut your relation with) one another, and do not hate one another; and O Allah's worshipers! Be brothers (as Allah has ordered you!") 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 6064
+In-Book Reference: Book 78, Hadith 94
+USC-MSA web (English) reference: Vol. 8, Book 73, Hadith 90 (deprecated numbering scheme)
+
+=== bukhari 13
+bukhari 13 (urn 100130)
+AR grade: صحيح
+AR: حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏
+وَعَنْ حُسَيْنٍ الْمُعَلِّمِ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ ‏ ‏‏.‏
+EN: Narrated Anas: The Prophet (ﷺ) said, "None of you will have faith till he wishes for his (Muslim) brother what he likes for himself." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 13
+In-Book Reference: Book 2, Hadith 6
+USC-MSA web (English) reference: Vol. 1, Book 2, Hadith 13 (deprecated numbering scheme)
+
+=== abudawud 4941
+abudawud 4941 (urn 949440)
+AR grade: صحيح (الألباني) 
+AR: حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُسَدَّدٌ، - الْمَعْنَى - قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ أَبِي قَابُوسَ، مَوْلًى لِعَبْدِ اللَّهِ بْنِ عَمْرٍو عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم ‏ ‏ الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ ارْحَمُوا أَهْلَ الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ ‏ ‏ ‏.‏ لَمْ يَقُلْ مُسَدَّدٌ مَوْلَى عَبْدِ اللَّهِ بْنِ عَمْرٍو وَقَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏.‏
+EN: Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: The Compassionate One has mercy on those who are merciful. If you show mercy to those who are on the earth, He Who is in the heaven will show mercy to you.
+
+Musaddad did not say: The client of 'Adb Allah b. 'Amr. He said: The Prophet (ﷺ) said. 
+EN grade: Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 4941
+In-Book Reference: Book 43, Hadith 169
+English Reference: Book 42, Hadith 4923
+
+=== bukhari 5065
+bukhari 5065 (urn 142660)
+AR grade: صحيح
+AR: حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ، عَنْ عَلْقَمَةَ، قَالَ كُنْتُ مَعَ عَبْدِ اللَّهِ فَلَقِيَهُ عُثْمَانُ بِمِنًى فَقَالَ يَا أَبَا عَبْدِ الرَّحْمَنِ إِنَّ لِي إِلَيْكَ حَاجَةً‏.‏ فَخَلَيَا فَقَالَ عُثْمَانُ هَلْ لَكَ يَا أَبَا عَبْدِ الرَّحْمَنِ فِي أَنْ نُزَوِّجَكَ بِكْرًا، تُذَكِّرُكَ مَا كُنْتَ تَعْهَدُ، فَلَمَّا رَأَى عَبْدُ اللَّهِ أَنْ لَيْسَ لَهُ حَاجَةٌ إِلَى هَذَا أَشَارَ إِلَىَّ فَقَالَ يَا عَلْقَمَةُ، فَانْتَهَيْتُ إِلَيْهِ وَهْوَ يَقُولُ أَمَا لَئِنْ قُلْتَ ذَلِكَ لَقَدْ قَالَ لَنَا النَّبِيُّ صلى الله عليه وسلم ‏ ‏ يَا مَعْشَرَ الشَّبَابِ مَنِ اسْتَطَاعَ مِنْكُمُ الْبَاءَةَ فَلْيَتَزَوَّجْ، وَمَنْ لَمْ يَسْتَطِعْ فَعَلَيْهِ بِالصَّوْمِ فَإِنَّهُ لَهُ وِجَاءٌ ‏ ‏‏.‏
+EN: Narrated 'Alqama: While I was with `Abdullah, `Uthman met him at Mina and said, "O Abu `Abdur-Rahman ! I have something to say to you." So both of them went aside and `Uthman said, "O Abu `Abdur-Rah. man! Shall we marry you to a virgin who will make you remember your past days?" When `Abdullah felt that he was not in need of that, he beckoned me (to join him) saying, "O 'Alqama!" Then I heard him saying (in reply to `Uthman), "As you have said that, (I tell you that) the Prophet (ﷺ) once said to us, 'O young people! Whoever among you is able to marry, should marry, and whoever is not able to marry, is recommended to fast, as fasting diminishes his sexual power. 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5065
+In-Book Reference: Book 67, Hadith 3
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 3 (deprecated numbering scheme)
+
+=== bukhari 5136
+bukhari 5136 (urn 143400)
+AR grade: صحيح
+AR:  حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ، حَدَّثَهُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏"‏ لاَ تُنْكَحُ الأَيِّمُ حَتَّى تُسْتَأْمَرَ وَلاَ تُنْكَحُ الْبِكْرُ حَتَّى تُسْتَأْذَنَ ‏"‏‏.‏ قَالُوا يَا رَسُولَ اللَّهِ وَكَيْفَ إِذْنُهَا قَالَ ‏"‏ أَنْ تَسْكُتَ ‏"‏‏.‏ 
+EN: Narrated Abu Huraira: The Prophet (ﷺ) said, "A matron should not be given in marriage except after consulting her; and a virgin should not be given in marriage except after her permission." The people asked, "O Allah's Messenger (ﷺ) ! How can we know her permission?" He said, "Her silence (indicates her permission). 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5136
+In-Book Reference: Book 67, Hadith 72
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 67 (deprecated numbering scheme)
+
+=== bukhari 5138
+bukhari 5138 (urn 143420)
+AR grade: صحيح
+AR:  حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَبْدِ الرَّحْمَنِ، وَمُجَمِّعٍ، ابْنَىْ يَزِيدَ بْنِ جَارِيَةَ عَنْ خَنْسَاءَ بِنْتِ خِذَامٍ الأَنْصَارِيَّةِ، أَنَّ أَبَاهَا، زَوَّجَهَا وَهْىَ ثَيِّبٌ، فَكَرِهَتْ ذَلِكَ فَأَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَرَدَّ نِكَاحَهُ‏.‏ 
+EN: Narrated Khansa bint Khidam Al-Ansariya: that her father gave her in marriage when she was a matron and she disliked that marriage. So she went to Allah's Messenger (ﷺ)  and he declared that marriage invalid. 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5138
+In-Book Reference: Book 67, Hadith 74
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 69 (deprecated numbering scheme)
+
+=== tirmidhi 1087
+tirmidhi 1087 (urn 711090)
+AR grade: 
+AR:  حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، قَالَ حَدَّثَنِي عَاصِمُ بْنُ سُلَيْمَانَ، هُوَ الأَحْوَلُ عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ الْمُزَنِيِّ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّهُ خَطَبَ امْرَأَةً فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ انْظُرْ إِلَيْهَا فَإِنَّهُ أَحْرَى أَنْ يُؤْدَمَ بَيْنَكُمَا ‏"‏ ‏.‏ وَفِي الْبَابِ عَنْ مُحَمَّدِ بْنِ مَسْلَمَةَ وَجَابِرٍ وَأَنَسٍ وَأَبِي حُمَيْدٍ وَأَبِي هُرَيْرَةَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ إِلَى هَذَا الْحَدِيثِ وَقَالُوا لاَ بَأْسَ أَنْ يَنْظُرَ إِلَيْهَا مَا لَمْ يَرَ مِنْهَا مُحَرَّمًا ‏.‏ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏ وَمَعْنَى قَوْلِهِ ‏"‏ أَحْرَى أَنْ يُؤْدَمَ بَيْنَكُمَا ‏"‏ قَالَ أَحْرَى أَنْ تَدُومَ الْمَوَدَّةُ بَيْنَكُمَا ‏.‏ 
+EN: Bakr bin Abdullah Al-Muzani narrated that : Al-Mughirah bin Shu'bah proposed to a woman, so the Prophet (ﷺ) said: "Look at her, for indeed that is more likely to make things better between the two of you." 
+EN grade: Sahih (Darussalam) 
+REF: Jami` at-Tirmidhi, 1087
+In-Book Reference: Book 11, Hadith 8
+English Reference: Vol. 2, Book 6, Hadith 1087
+
+=== nasai 3235
+nasai 3235 (urn 1132460)
+AR grade: 
+AR:  أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ بْنِ أَبِي رِزْمَةَ، قَالَ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، قَالَ حَدَّثَنَا عَاصِمٌ، عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ الْمُزَنِيِّ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ خَطَبْتُ امْرَأَةً عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ أَنَظَرْتَ إِلَيْهَا ‏"‏ ‏.‏ قُلْتُ لاَ ‏.‏ قَالَ ‏"‏ فَانْظُرْ إِلَيْهَا فَإِنَّهُ أَجْدَرُ أَنْ يُؤْدَمَ بَيْنَكُمَا ‏"‏ ‏.‏ 
+EN: Narrated Al-Mughirah bin Shu'bah: It was narrated that Al-Mughirah bin Shu'bah said: "I proposed marriage to a woman during the time of the Messenger of Allah, and the Prophet (ﷺ) said: 'Have you seen her?' I said: 'No.' He said: 'Look at her, for that is more likely to create love between you.'" 
+EN grade: sahih (Darussalam) 
+REF: Sunan an-Nasa'i, 3235
+In-Book Reference: Book 26, Hadith 40
+English Reference: Vol. 4, Book 26, Hadith 3237
+
+=== bukhari 5144
+NOT FOUND
+=== bukhari 2721
+bukhari 2721 (urn 126480)
+AR grade: صحيح
+AR: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ أَحَقُّ الشُّرُوطِ أَنْ تُوفُوا بِهِ مَا اسْتَحْلَلْتُمْ بِهِ الْفُرُوجَ ‏ ‏‏.‏
+EN: Narrated `Uqba bin Amir: Allah's Messenger (ﷺ)  said, "From among all the conditions which you have to fulfill, the conditions which make it legal for you to have sexual relations (i.e. the marriage contract) have the greatest right to be fulfilled." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 2721
+In-Book Reference: Book 54, Hadith 10
+USC-MSA web (English) reference: Vol. 3, Book 50, Hadith 882 (deprecated numbering scheme)
+
+=== bukhari 5273
+bukhari 5273 (urn 144750)
+AR grade: صحيح
+AR:  حَدَّثَنَا أَزْهَرُ بْنُ جَمِيلٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، حَدَّثَنَا خَالِدٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،‏.‏ أَنَّ امْرَأَةَ، ثَابِتِ بْنِ قَيْسٍ أَتَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ ثَابِتُ بْنُ قَيْسٍ مَا أَعْتُبُ عَلَيْهِ فِي خُلُقٍ وَلاَ دِينٍ، وَلَكِنِّي أَكْرَهُ الْكُفْرَ فِي الإِسْلاَمِ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَتَرُدِّينَ عَلَيْهِ حَدِيقَتَهُ ‏"‏‏.‏ قَالَتْ نَعَمْ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ اقْبَلِ الْحَدِيقَةَ وَطَلِّقْهَا تَطْلِيقَةً ‏"‏‏.‏
+قَالَ أَبُو عَبْد اللَّهِ لَا يُتَابَعُ فِيهِ عَنْ ابْنِ عَبَّاسٍ 
+EN: Narrated Ibn `Abbas: The wife of Thabit bin Qais came to the Prophet (ﷺ) and said, "O Allah's Messenger (ﷺ) ! I do not blame Thabit for defects in his character or his religion, but I, being a Muslim, dislike to behave in un-Islamic manner (if I remain with him)." On that Allah's Messenger (ﷺ)  said (to her), "Will you give back the garden which your husband has given you (as Mahr)?" She said, "Yes." Then the Prophet (ﷺ) said to Thabit, "O Thabit! Accept your garden, and divorce her once." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5273
+In-Book Reference: Book 68, Hadith 22
+USC-MSA web (English) reference: Vol. 7, Book 63, Hadith 197 (deprecated numbering scheme)
+
+=== tirmidhi 2022
+tirmidhi 2022 (urn 721490)
+AR grade: 
+AR: حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَزِيدُ بْنُ بَيَانٍ الْعُقَيْلِيُّ، حَدَّثَنَا أَبُو الرَّحَّالِ الأَنْصَارِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ مَا أَكْرَمَ شَابٌّ شَيْخًا لِسِنِّهِ إِلاَّ قَيَّضَ اللَّهُ لَهُ مَنْ يُكْرِمُهُ عِنْدَ سِنِّهِ ‏ ‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ هَذَا الشَّيْخِ يَزِيدَ بْنِ بَيَانٍ وَأَبُو الرِّجَالِ الأَنْصَارِيُّ آخَرُ ‏.‏
+EN: Anas bin Malik narrated that the Messenger of Allah said: "No young person honors an elder due to his age, except that Allah appoints for him one who will honor him at that age." 
+EN grade: Da'if (Darussalam) 
+REF: Jami` at-Tirmidhi, 2022
+In-Book Reference: Book 27, Hadith 128
+English Reference: Vol. 4, Book 1, Hadith 2022
+
+=== muslim 2626
+muslim 2626 (urn 368950)
+AR grade: صحيح
+AR: حَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، حَدَّثَنَا أَبُو عَامِرٍ، - يَعْنِي
+الْخَزَّازَ - عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ لِيَ
+النَّبِيُّ صلى الله عليه وسلم ‏ ‏ لاَ تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ
+‏ ‏ ‏.‏
+EN: Abu Dharr reported: Allah's Messenger (ﷺ) said to me: Don't consider anything insignificant out of good things even if it is that you meet your brother with a cheerful countenance. 
+EN grade: Sahih
+REF: Sahih Muslim, 2626
+In-Book Reference: Book 45, Hadith 187
+USC-MSA web (English) reference: Book 32, Hadith 6359 (deprecated numbering scheme)
+
+=== adab 594
+adab 594 (urn 2305920)
+AR grade: حـسـن (الألباني) 
+AR:  حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ‏:‏ حَدَّثَنَا ضِمَامُ بْنُ إِسْمَاعِيلَ قَالَ‏:‏ سَمِعْتُ مُوسَى بْنَ وَرْدَانَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم يَقُولُ‏:‏ تَهَادُوا تَحَابُّوا‏.‏ 
+EN:  Abu Hurayra reported that the Prophet, (ﷺ), said, "Give gifts and you will love one another." 
+EN grade: Hasan (Al-Albani) 
+REF: Al-Adab Al-Mufrad, 594
+In-Book Reference: Book 30, Hadith 57
+English Reference: Book 30, Hadith 594
+
+=== bukhari 2731
+NOT FOUND
+=== bukhari 3
+bukhari 3 (urn 100030)
+AR grade: صحيح
+AR:  حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، أَنَّهَا قَالَتْ أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْوَحْىِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لاَ يَرَى رُؤْيَا إِلاَّ جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ، ثُمَّ حُبِّبَ إِلَيْهِ الْخَلاَءُ، وَكَانَ يَخْلُو بِغَارِ حِرَاءٍ فَيَتَحَنَّثُ فِيهِ ـ وَهُوَ التَّعَبُّدُ ـ اللَّيَالِيَ ذَوَاتِ الْعَدَدِ قَبْلَ أَنْ يَنْزِعَ إِلَى أَهْلِهِ، وَيَتَزَوَّدُ لِذَلِكَ، ثُمَّ يَرْجِعُ إِلَى خَدِيجَةَ، فَيَتَزَوَّدُ لِمِثْلِهَا، حَتَّى جَاءَهُ الْحَقُّ وَهُوَ فِي غَارِ حِرَاءٍ، فَجَاءَهُ الْمَلَكُ فَقَالَ اقْرَأْ‏.‏ قَالَ ‏"‏ مَا أَنَا بِقَارِئٍ ‏"‏‏.‏ قَالَ ‏"‏ فَأَخَذَنِي فَغَطَّنِي حَتَّى بَلَغَ مِنِّي الْجَهْدَ، ثُمَّ أَرْسَلَنِي فَقَالَ اقْرَأْ‏.‏ قُلْتُ مَا أَنَا بِقَارِئٍ‏.‏ فَأَخَذَنِي فَغَطَّنِي الثَّانِيَةَ حَتَّى بَلَغَ مِنِّي الْجَهْدَ، ثُمَّ أَرْسَلَنِي فَقَالَ اقْرَأْ‏.‏ فَقُلْتُ مَا أَنَا بِقَارِئٍ‏.‏ فَأَخَذَنِي فَغَطَّنِي الثَّالِثَةَ، ثُمَّ أَرْسَلَنِي فَقَالَ ‏{‏اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ * خَلَقَ الإِنْسَانَ مِنْ عَلَقٍ * اقْرَأْ وَرَبُّكَ الأَكْرَمُ‏}‏ ‏"‏‏.‏ فَرَجَعَ بِهَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَرْجُفُ فُؤَادُهُ، فَدَخَلَ عَلَى خَدِيجَةَ بِنْتِ خُوَيْلِدٍ رضى الله عنها فَقَالَ ‏"‏ زَمِّلُونِي زَمِّلُونِي ‏"‏‏.‏ فَزَمَّلُوهُ حَتَّى ذَهَبَ عَنْهُ الرَّوْعُ، فَقَالَ لِخَدِيجَةَ وَأَخْبَرَهَا الْخَبَرَ ‏"‏ لَقَدْ خَشِيتُ عَلَى نَفْسِي ‏"‏‏.‏ فَقَالَتْ خَدِيجَةُ كَلاَّ وَاللَّهِ مَا يُخْزِيكَ اللَّهُ أَبَدًا، إِنَّكَ لَتَصِلُ الرَّحِمَ، وَتَحْمِلُ الْكَلَّ، وَتَكْسِبُ الْمَعْدُومَ، وَتَقْرِي الضَّيْفَ، وَتُعِينُ عَلَى نَوَائِبِ الْحَقِّ‏.‏ فَانْطَلَقَتْ بِهِ خَدِيجَةُ حَتَّى أَتَتْ بِهِ وَرَقَةَ بْنَ نَوْفَلِ بْنِ أَسَدِ بْنِ عَبْدِ الْعُزَّى ابْنَ عَمِّ خَدِيجَةَ ـ وَكَانَ امْرَأً تَنَصَّرَ فِي الْجَاهِلِيَّةِ، وَكَانَ يَكْتُبُ الْكِتَابَ الْعِبْرَانِيَّ، فَيَكْتُبُ مِنَ الإِنْجِيلِ بِالْعِبْرَانِيَّةِ مَا شَاءَ اللَّهُ أَنْ يَكْتُبَ، وَكَانَ شَيْخًا كَبِيرًا قَدْ عَمِيَ ـ فَقَالَتْ لَهُ خَدِيجَةُ يَا ابْنَ عَمِّ اسْمَعْ مِنَ ابْنِ أَخِيكَ‏.‏ فَقَالَ لَهُ وَرَقَةُ يَا ابْنَ أَخِي مَاذَا تَرَى فَأَخْبَرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم خَبَرَ مَا رَأَى‏.‏ فَقَالَ لَهُ وَرَقَةُ هَذَا النَّامُوسُ الَّذِي نَزَّلَ اللَّهُ عَلَى مُوسَى صلى الله عليه وسلم يَا لَيْتَنِي فِيهَا جَذَعًا، لَيْتَنِي أَكُونُ حَيًّا إِذْ يُخْرِجُكَ قَوْمُكَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَوَمُخْرِجِيَّ هُمْ ‏"‏‏.‏ قَالَ نَعَمْ، لَمْ يَأْتِ رَجُلٌ قَطُّ بِمِثْلِ مَا جِئْتَ بِهِ إِلاَّ عُودِيَ، وَإِنْ يُدْرِكْنِي يَوْمُكَ أَنْصُرْكَ نَصْرًا مُؤَزَّرًا‏.‏ ثُمَّ لَمْ يَنْشَبْ وَرَقَةُ أَنْ تُوُفِّيَ وَفَتَرَ الْوَحْىُ‏.‏ 
+EN: Narrated 'Aisha (the mother of the faithful believers): The commencement of the Divine Inspiration to Allah's Messenger (ﷺ)  was in the form of good dreams which came true like bright daylight, and then the love of seclusion was bestowed upon him. He used to go in seclusion in the cave of Hira where he used to worship (Allah alone) continuously for many days before his desire to see his family. He used to take with him the journey food for the stay and then come back to (his wife) Khadija to take his food likewise again till suddenly the Truth descended upon him while he was in the cave of Hira. The angel came to him and asked him to read. The Prophet (ﷺ) replied, "I do not know how to read." The Prophet (ﷺ) added, "The angel caught me (forcefully) and pressed me so hard that I could not bear it any more. He then released me and again asked me to read and I replied, 'I do not know how to read.' Thereupon he caught me again and pressed me a second time till I could not bear it any more. He then released me and again asked me to read but again I replied, 'I do not know how to read (or what shall I read)?' Thereupon he caught me for the third time and pressed me, and then released me and said, 'Read in the name of your Lord, who has created (all that exists), created man from a clot. Read! And your Lord is the Most Generous." (96:1, 96:2, 96:3) Then Allah's Messenger (ﷺ)  returned with the Inspiration and with his heart beating severely. Then he went to Khadija bint Khuwailid and said, "Cover me! Cover me!" They covered him till his fear was over and after that he told her everything that had happened and said, "I fear that something may happen to me." Khadija replied, "Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously and assist the deserving calamity-afflicted ones." Khadija then accompanied him to her cousin Waraqa bin Naufal bin Asad bin 'Abdul 'Uzza, who, during the pre-Islamic Period became a Christian and used to write the writing with Hebrew letters. He would write from the Gospel in Hebrew as much as Allah wished him to write. He was an old man and had lost his eyesight. Khadija said to Waraqa, "Listen to the story of your nephew, O my cousin!" Waraqa asked, "O my nephew! What have you seen?" Allah's Messenger (ﷺ)  described whatever he had seen. Waraqa said, "This is the same one who keeps the secrets (angel Gabriel) whom Allah had sent to Moses. I wish I were young and could live up to the time when your people would turn you out." Allah's Messenger (ﷺ)  asked, "Will they drive me out?" Waraqa replied in the affirmative and said, "Anyone (man) who came with something similar to what you have brought was treated with hostility; and if I should remain alive till the day when you will be turned out then I would support you strongly." But after a few days Waraqa died and the Divine Inspiration was also paused for a while. 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 3
+In-Book Reference: Book 1, Hadith 3
+USC-MSA web (English) reference: Vol. 1, Book 1, Hadith 3 (deprecated numbering scheme)
+
+=== abudawud 1308
+abudawud 1308 (urn 913110)
+AR grade: حسن صحيح (الألباني) 
+AR: حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا ابْنُ عَجْلاَنَ، عَنِ الْقَعْقَاعِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ رَحِمَ اللَّهُ رَجُلاً قَامَ مِنَ اللَّيْلِ فَصَلَّى وَأَيْقَظَ امْرَأَتَهُ فَإِنْ أَبَتْ نَضَحَ فِي وَجْهِهَا الْمَاءَ رَحِمَ اللَّهُ امْرَأَةً قَامَتْ مِنَ اللَّيْلِ فَصَلَّتْ وَأَيْقَظَتْ زَوْجَهَا فَإِنْ أَبَى نَضَحَتْ فِي وَجْهِهِ الْمَاءَ ‏ ‏ ‏.‏
+EN: Narrated AbuHurayrah: The Prophet (ﷺ) said: May Allah have mercy on a man who gets up at night and prays, and awakens his wife; if she refuses, he should sprinkle water on her face. May Allah have mercy on a woman who gets up at night and prays, and awakens her husband; if he refuses, she would sprinkle water on his face. 
+EN grade: Hasan Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 1308
+In-Book Reference: Book 5, Hadith 59
+English Reference: Book 5, Hadith 1303
+
+=== bukhari 6464
+bukhari 6464 (urn 155730)
+AR grade: صحيح
+AR: حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُلَيْمَانُ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ ‏ سَدِّدُوا وَقَارِبُوا، وَاعْلَمُوا أَنْ لَنْ يُدْخِلَ أَحَدَكُمْ عَمَلُهُ الْجَنَّةَ، وَأَنَّ أَحَبَّ الأَعْمَالِ أَدْوَمُهَا إِلَى اللَّهِ، وَإِنْ قَلَّ ‏ ‏
+EN: Narrated `Aisha: Allah's Messenger (ﷺ)  said, "Do good deeds properly, sincerely and moderately and know that your deeds will not make you enter Paradise, and that the most beloved deed to Allah is the most regular and constant even if it were little." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 6464
+In-Book Reference: Book 81, Hadith 53
+USC-MSA web (English) reference: Vol. 8, Book 76, Hadith 471 (deprecated numbering scheme)
+
+=== muslim 2577
+NOT FOUND
+=== ibnmajah 2340
+ibnmajah 2340 (urn 1324310)
+AR grade: 
+AR: حَدَّثَنَا عَبْدُ رَبِّهِ بْنُ خَالِدٍ النُّمَيْرِيُّ أَبُو الْمُغَلِّسِ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، حَدَّثَنَا إِسْحَاقُ بْنُ يَحْيَى بْنِ الْوَلِيدِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى أَنْ ‏ ‏ لاَ ضَرَرَ وَلاَ ضِرَارَ ‏ ‏ ‏.‏
+EN: It was narrated from 'Ubadah bin Samit that the Messenger of Allah (ﷺ) ruled: “There should be neither harming nor reciprocating harm.” 
+EN grade: Da'if (Darussalam) 
+REF: Sunan Ibn Majah, 2340
+In-Book Reference: Book 13, Hadith 33
+English Reference: Vol. 3, Book 13, Hadith 2340
+
+=== bukhari 7257
+bukhari 7257 (urn 163750)
+AR grade: صحيح
+AR:  حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ جَيْشًا وَأَمَّرَ عَلَيْهِمْ رَجُلاً، فَأَوْقَدَ نَارًا وَقَالَ ادْخُلُوهَا‏.‏ فَأَرَادُوا أَنْ يَدْخُلُوهَا، وَقَالَ آخَرُونَ إِنَّمَا فَرَرْنَا مِنْهَا، فَذَكَرُوا لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ لِلَّذِينَ أَرَادُوا أَنْ يَدْخُلُوهَا ‏"‏ لَوْ دَخَلُوهَا لَمْ يَزَالُوا فِيهَا إِلَى يَوْمِ الْقِيَامَةِ ‏"‏‏.‏ وَقَالَ لِلآخَرِينَ ‏"‏ لاَ طَاعَةَ فِي مَعْصِيَةٍ، إِنَّمَا الطَّاعَةُ فِي الْمَعْرُوفِ ‏"‏‏.‏ 
+EN: Narrated `Ali: The Prophet (ﷺ) , sent an army and appointed some man their commander The man made a fire and then said (to the soldiers), "Enter it." Some of them intended to enter it while some others said, 'We have run away from it (i.e., embraced Islam to save ourselves from the 'fire')." They mentioned that to the Prophet, and he said about people who had intended to enter the fire. ''If they had entered it, they would have remained In it till the Day of Resurrection.'' Then he said to others, "No obedience for evil deeds, obedience is required only in what is good ." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 7257
+In-Book Reference: Book 95, Hadith 12
+USC-MSA web (English) reference: Vol. 9, Book 91, Hadith 363 (deprecated numbering scheme)
+
+=== muslim 1218
+NOT FOUND
+=== bukhari 2397
+bukhari 2397 (urn 123120)
+AR grade: صحيح
+AR:  حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، ح وَحَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي أَخِي، عَنْ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ أَبِي عَتِيقٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَدْعُو فِي الصَّلاَةِ وَيَقُولُ ‏"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ ‏"‏‏.‏ فَقَالَ لَهُ قَائِلٌ مَا أَكْثَرَ مَا تَسْتَعِيذُ يَا رَسُولَ اللَّهِ مِنَ الْمَغْرَمِ قَالَ ‏"‏ إِنَّ الرَّجُلَ إِذَا غَرِمَ حَدَّثَ فَكَذَبَ وَوَعَدَ فَأَخْلَفَ ‏"‏‏.‏ 
+EN: Narrated `Aisha: Allah's Messenger (ﷺ)  used to invoke Allah in the prayer saying, "O Allah, I seek refuge with you from all sins, and from being in debt." Someone said, O Allah's Messenger (ﷺ) ! (I see you) very often you seek refuge with Allah from being in debt. He replied, "If a person is in debt, he tells lies when he speaks, and breaks his promises when he promises." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 2397
+In-Book Reference: Book 43, Hadith 13
+USC-MSA web (English) reference: Vol. 3, Book 41, Hadith 582 (deprecated numbering scheme)
+
+=== bukhari 2400
+bukhari 2400 (urn 123150)
+AR grade: صحيح
+AR: حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مَعْمَرٍ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، أَخِي وَهْبِ بْنِ مُنَبِّهٍ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ مَطْلُ الْغَنِيِّ ظُلْمٌ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: Allah's Messenger (ﷺ)  said, "Procrastination (delay) in repaying debts by a wealthy person is injustice." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 2400
+In-Book Reference: Book 43, Hadith 16
+USC-MSA web (English) reference: Vol. 3, Book 41, Hadith 585 (deprecated numbering scheme)
+
+=== bukhari 5364
+bukhari 5364 (urn 145650)
+AR grade: صحيح
+AR: حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ هِنْدَ بِنْتَ عُتْبَةَ، قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ أَبَا سُفْيَانَ رَجُلٌ شَحِيحٌ، وَلَيْسَ يُعْطِينِي مَا يَكْفِينِي وَوَلَدِي، إِلاَّ مَا أَخَذْتُ مِنْهُ وَهْوَ لاَ يَعْلَمُ فَقَالَ ‏ ‏ خُذِي مَا يَكْفِيكِ وَوَلَدَكِ بِالْمَعْرُوفِ ‏ ‏‏.‏
+EN: Narrated `Aisha: Hind bint `Utba said, "O Allah's Messenger (ﷺ) ! Abu Sufyan is a miser and he does not give me what is sufficient for me and my children. Can I take of his property without his knowledge?" The Prophet (ﷺ) said, "Take what is sufficient for you and your children, and the amount should be just and reasonable. 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5364
+In-Book Reference: Book 69, Hadith 14
+USC-MSA web (English) reference: Vol. 7, Book 64, Hadith 277 (deprecated numbering scheme)
+
+=== bukhari 1462
+bukhari 1462 (urn 113630)
+AR grade: صحيح
+AR:  حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ أَخْبَرَنِي زَيْدٌ، عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي أَضْحًى أَوْ فِطْرٍ إِلَى الْمُصَلَّى ثُمَّ انْصَرَفَ فَوَعَظَ النَّاسَ وَأَمَرَهُمْ بِالصَّدَقَةِ فَقَالَ ‏"‏ أَيُّهَا النَّاسُ تَصَدَّقُوا ‏"‏‏.‏ فَمَرَّ عَلَى النِّسَاءِ فَقَالَ ‏"‏ يَا مَعْشَرَ النِّسَاءِ تَصَدَّقْنَ، فَإِنِّي رَأَيْتُكُنَّ أَكْثَرَ أَهْلِ النَّارِ ‏"‏‏.‏ فَقُلْنَ وَبِمَ ذَلِكَ يَا رَسُولَ اللَّهِ قَالَ ‏"‏ تُكْثِرْنَ اللَّعْنَ وَتَكْفُرْنَ الْعَشِيرَ، مَا رَأَيْتُ مِنْ نَاقِصَاتِ عَقْلٍ وَدِينٍ أَذْهَبَ لِلُبِّ الرَّجُلِ الْحَازِمِ مِنْ إِحْدَاكُنَّ يَا مَعْشَرَ النِّسَاءِ ‏"‏‏.‏ ثُمَّ انْصَرَفَ فَلَمَّا صَارَ إِلَى مَنْزِلِهِ جَاءَتْ زَيْنَبُ امْرَأَةُ ابْنِ مَسْعُودٍ تَسْتَأْذِنُ عَلَيْهِ فَقِيلَ يَا رَسُولَ اللَّهِ هَذِهِ زَيْنَبُ فَقَالَ ‏"‏ أَىُّ الزَّيَانِبِ ‏"‏‏.‏ فَقِيلَ امْرَأَةُ ابْنِ مَسْعُودٍ‏.‏ قَالَ ‏"‏ نَعَمِ ائْذَنُوا لَهَا ‏"‏‏.‏ فَأُذِنَ لَهَا قَالَتْ يَا نَبِيَّ اللَّهِ إِنَّكَ أَمَرْتَ الْيَوْمَ بِالصَّدَقَةِ، وَكَانَ عِنْدِي حُلِيٌّ لِي، فَأَرَدْتُ أَنْ أَتَصَدَّقَ بِهِ، فَزَعَمَ ابْنُ مَسْعُودٍ أَنَّهُ وَوَلَدَهُ أَحَقُّ مَنْ تَصَدَّقْتُ بِهِ عَلَيْهِمْ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ صَدَقَ ابْنُ مَسْعُودٍ، زَوْجُكِ وَوَلَدُكِ أَحَقُّ مَنْ تَصَدَّقْتِ بِهِ عَلَيْهِمْ ‏"‏‏.‏ 
+EN: Narrated Abu Sa`id Al-Khudri: On `Id ul Fitr or `Id ul Adha Allah's Messenger (ﷺ) went out to the Musalla. After finishing the prayer, he delivered the sermon and ordered the people to give alms. He said, "O people! Give alms." Then he went towards the women and said. "O women! Give alms, for I have seen that the majority of the dwellers of Hell-Fire were you (women)." The women asked, "O Allah's Messenger (ﷺ) ! What is the reason for it?" He replied, "O women! You curse frequently, and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. O women, some of you can lead a cautious wise man astray." Then he left. And when he reached his house, Zainab, the wife of Ibn Mas`ud, came and asked permission to enter It was said, "O Allah's Messenger (ﷺ) ! It is Zainab." He asked, 'Which Zainab?" The reply was that she was the wife of Ibn Mas'ub. He said, "Yes, allow her to enter." And she was admitted. Then she said, "O Prophet (ﷺ) of Allah! Today you ordered people to give alms and I had an ornament and intended to give it as alms, but Ibn Mas`ud said that he and his children deserved it more than anybody else." The Prophet (ﷺ) replied, "Ibn Mas`ud had spoken the truth. Your husband and your children had more right to it than anybody else." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 1462
+In-Book Reference: Book 24, Hadith 64
+USC-MSA web (English) reference: Vol. 2, Book 24, Hadith 541 (deprecated numbering scheme)
+
+=== muslim 2999
+muslim 2999 (urn 377300)
+AR grade: صحيح
+AR: حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ الأَزْدِيُّ، وَشَيْبَانُ بْنُ فَرُّوخَ، جَمِيعًا عَنْ سُلَيْمَانَ بْنِ الْمُغِيرَةِ،
+- وَاللَّفْظُ لِشَيْبَانَ - حَدَّثَنَا سُلَيْمَانُ، حَدَّثَنَا ثَابِتٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ صُهَيْبٍ،
+قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ
+ذَاكَ لأَحَدٍ إِلاَّ لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ
+خَيْرًا لَهُ ‏ ‏ ‏.‏
+EN: Suhaib reported that Allah's Messenger (ﷺ) said: Strange are the ways of a believer for there is good in every affair of his and this is not the case with anyone else except in the case of a believer for if he has an occasion to feel delight, he thanks (God), thus there is a good for him in it, and if he gets into trouble and shows resignation (and endures it patiently), there is a good for him in it. 
+EN grade: Sahih
+REF: Sahih Muslim, 2999
+In-Book Reference: Book 55, Hadith 82
+USC-MSA web (English) reference: Book 42, Hadith 7138 (deprecated numbering scheme)
+
+=== bukhari 1303
+bukhari 1303 (urn 111930)
+AR grade: صحيح
+AR:  حَدَّثَنَا الْحَسَنُ بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، حَدَّثَنَا قُرَيْشٌ ـ هُوَ ابْنُ حَيَّانَ ـ عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ دَخَلْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى أَبِي سَيْفٍ الْقَيْنِ ـ وَكَانَ ظِئْرًا لإِبْرَاهِيمَ ـ عَلَيْهِ السَّلاَمُ ـ فَأَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِبْرَاهِيمَ فَقَبَّلَهُ وَشَمَّهُ، ثُمَّ دَخَلْنَا عَلَيْهِ بَعْدَ ذَلِكَ، وَإِبْرَاهِيمُ يَجُودُ بِنَفْسِهِ، فَجَعَلَتْ عَيْنَا رَسُولِ اللَّهِ صلى الله عليه وسلم تَذْرِفَانِ‏.‏ فَقَالَ لَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ ـ رضى الله عنه ـ وَأَنْتَ يَا رَسُولَ اللَّهِ فَقَالَ ‏"‏ يَا ابْنَ عَوْفٍ إِنَّهَا رَحْمَةٌ ‏"‏‏.‏ ثُمَّ أَتْبَعَهَا بِأُخْرَى فَقَالَ صلى الله عليه وسلم ‏"‏ إِنَّ الْعَيْنَ تَدْمَعُ، وَالْقَلْبَ يَحْزَنُ، وَلاَ نَقُولُ إِلاَّ مَا يَرْضَى رَبُّنَا، وَإِنَّا بِفِرَاقِكَ يَا إِبْرَاهِيمُ لَمَحْزُونُونَ ‏"‏‏.‏ رَوَاهُ مُوسَى عَنْ سُلَيْمَانَ بْنِ الْمُغِيرَةِ عَنْ ثَابِتٍ عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ 
+EN: Narrated Anas bin Malik: We went with Allah's Messenger (ﷺ) to the blacksmith Abu Saif, and he was the husband of the wet-nurse of Ibrahim (the son of the Prophet). Allah's Messenger (ﷺ)  took Ibrahim and kissed him and smelled him and later we entered Abu Saif's house and at that time Ibrahim was in his last breaths, and the eyes of Allah's Messenger (ﷺ) started shedding tears. `Abdur Rahman bin `Auf said, "O Allah's Messenger (ﷺ) , even you are weeping!" He said, "O Ibn `Auf, this is mercy." Then he wept more and said, "The eyes are shedding tears and the heart is grieved, and we will not say except what pleases our Lord, O Ibrahim ! Indeed we are grieved by your separation." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 1303
+In-Book Reference: Book 23, Hadith 61
+USC-MSA web (English) reference: Vol. 2, Book 23, Hadith 390 (deprecated numbering scheme)
+
+=== abudawud 4811
+abudawud 4811 (urn 948140)
+AR grade: صحيح (الألباني) 
+AR: حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الرَّبِيعُ بْنُ مُسْلِمٍ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ لاَ يَشْكُرُ اللَّهَ مَنْ لاَ يَشْكُرُ النَّاسَ ‏ ‏ ‏.‏
+EN: Narrated Abu Hurayrah: The Prophet (ﷺ) said: He who does not thank the people is not thankful to Allah. 
+EN grade: Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 4811
+In-Book Reference: Book 43, Hadith 39
+English Reference: Book 42, Hadith 4793
+
+=== abudawud 2178
+abudawud 2178 (urn 921810)
+AR grade: ضعيف (الألباني) 
+AR: حَدَّثَنَا كَثِيرُ بْنُ عُبَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، عَنْ مُعَرِّفِ بْنِ وَاصِلٍ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ أَبْغَضُ الْحَلاَلِ إِلَى اللَّهِ تَعَالَى الطَّلاَقُ ‏ ‏ ‏.‏
+EN: Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: Of all the lawful acts the most detestable to Allah is divorce. 
+EN grade: Da'if (Al-Albani) 
+REF: Sunan Abi Dawud, 2178
+In-Book Reference: Book 13, Hadith 4
+English Reference: Book 12, Hadith 2173
+
+=== ibnmajah 1847
+ibnmajah 1847 (urn 1319210)
+AR grade: 
+AR: حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مُحَمَّدُ بْنُ مُسْلِمٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ مَيْسَرَةَ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ ‏ لَمْ نَرَ لِلْمُتَحَابَّيْنِ مِثْلَ النِّكَاحِ ‏ ‏ ‏.‏
+EN: It was narrated from Ibn Abbas that: the Messenger of Allah said: “There is nothing like marriage, for two who love one another.” 
+EN grade: Hasan (Darussalam) 
+REF: Sunan Ibn Majah, 1847
+In-Book Reference: Book 9, Hadith 3
+English Reference: Vol. 3, Book 9, Hadith 1847
+
+=== bukhari 5063
+bukhari 5063 (urn 142640)
+AR grade: صحيح
+AR: حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، أَخْبَرَنَا حُمَيْدُ بْنُ أَبِي حُمَيْدٍ الطَّوِيلُ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ يَقُولُ جَاءَ ثَلاَثَةُ رَهْطٍ إِلَى بُيُوتِ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم يَسْأَلُونَ عَنْ عِبَادَةِ النَّبِيِّ صلى الله عليه وسلم فَلَمَّا أُخْبِرُوا كَأَنَّهُمْ تَقَالُّوهَا فَقَالُوا وَأَيْنَ نَحْنُ مِنَ النَّبِيِّ صلى الله عليه وسلم قَدْ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ وَمَا تَأَخَّرَ‏.‏ قَالَ أَحَدُهُمْ أَمَّا أَنَا فَإِنِّي أُصَلِّي اللَّيْلَ أَبَدًا‏.‏ وَقَالَ آخَرُ أَنَا أَصُومُ الدَّهْرَ وَلاَ أُفْطِرُ‏.‏ وَقَالَ آخَرُ أَنَا أَعْتَزِلُ النِّسَاءَ فَلاَ أَتَزَوَّجُ أَبَدًا‏.‏ فَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ ‏ أَنْتُمُ الَّذِينَ قُلْتُمْ كَذَا وَكَذَا أَمَا وَاللَّهِ إِنِّي لأَخْشَاكُمْ لِلَّهِ وَأَتْقَاكُمْ لَهُ، لَكِنِّي أَصُومُ وَأُفْطِرُ، وَأُصَلِّي وَأَرْقُدُ وَأَتَزَوَّجُ النِّسَاءَ، فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي ‏ ‏‏.‏
+EN: Narrated Anas bin Malik: A group of three men came to the houses of the wives of the Prophet (ﷺ) asking how the Prophet (ﷺ) worshipped (Allah), and when they were informed about that, they considered their worship insufficient and said, "Where are we from the Prophet (ﷺ) as his past and future sins have been forgiven." Then one of them said, "I will offer the prayer throughout the night forever." The other said, "I will fast throughout the year and will not break my fast." The third said, "I will keep away from the women and will not marry forever." Allah's Messenger (ﷺ)  came to them and said, "Are you the same people who said so-and-so? By Allah, I am more submissive to Allah and more afraid of Him than you; yet I fast and break my fast, I do sleep and I also marry women. So he who does not follow my tradition in religion, is not from me (not one of my followers). 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5063
+In-Book Reference: Book 67, Hadith 1
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 1 (deprecated numbering scheme)
+
+=== bukhari 3237
+bukhari 3237 (urn 129540)
+AR grade: صحيح
+AR: حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ إِذَا دَعَا الرَّجُلُ امْرَأَتَهُ إِلَى فِرَاشِهِ فَأَبَتْ، فَبَاتَ غَضْبَانَ عَلَيْهَا، لَعَنَتْهَا الْمَلاَئِكَةُ حَتَّى تُصْبِحَ ‏ ‏‏.‏ تَابَعَهُ شُعْبَةُ وَأَبُو حَمْزَةَ وَابْنُ دَاوُدَ وَأَبُو مُعَاوِيَةَ عَنِ الأَعْمَشِ‏.‏
+EN: Narrated Abu Huraira: Allah's Messenger (ﷺ)  said, "If a husband calls his wife to his bed (i.e. to have sexual relation) and she refuses and causes him to sleep in anger, the angels will curse her till morning." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 3237
+In-Book Reference: Book 59, Hadith 48
+USC-MSA web (English) reference: Vol. 4, Book 54, Hadith 460 (deprecated numbering scheme)
+
+=== bukhari 5193
+bukhari 5193 (urn 143950)
+AR grade: صحيح
+AR: حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ إِذَا دَعَا الرَّجُلُ امْرَأَتَهُ إِلَى فِرَاشِهِ فَأَبَتْ أَنْ تَجِيءَ لَعَنَتْهَا الْمَلاَئِكَةُ حَتَّى تُصْبِحَ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: The Prophet (ﷺ) said, "If a man Invites his wife to sleep with him and she refuses to come to him, then the angels send their curses on her till morning." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5193
+In-Book Reference: Book 67, Hadith 127
+USC-MSA web (English) reference: Vol. 7, Book 62, Hadith 121 (deprecated numbering scheme)
+
+=== tirmidhi 1159
+tirmidhi 1159 (urn 711910)
+AR grade: 
+AR: حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ لَوْ كُنْتُ آمِرًا أَحَدًا أَنْ يَسْجُدَ لأَحَدٍ لأَمَرْتُ الْمَرْأَةَ أَنْ تَسْجُدَ لِزَوْجِهَا ‏ ‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ مُعَاذِ بْنِ جَبَلٍ وَسُرَاقَةَ بْنِ مَالِكِ بْنِ جُعْشُمٍ وَعَائِشَةَ وَابْنِ عَبَّاسٍ وَعَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى وَطَلْقِ بْنِ عَلِيٍّ وَأُمِّ سَلَمَةَ وَأَنَسٍ وَابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ مُحَمَّدِ بْنِ عَمْرٍو عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ ‏.‏
+EN: Abu Hurairah narrated that The Prophet (ﷺ) said: “If I were to order anyone to prostrate to anyone, then I would order the wife to prostrate to her husband.” 
+EN grade: Hasan (Darussalam) 
+REF: Jami` at-Tirmidhi, 1159
+In-Book Reference: Book 12, Hadith 14
+English Reference: Vol. 1, Book 7, Hadith 1159
+
+=== bukhari 2442
+bukhari 2442 (urn 123580)
+AR grade: صحيح
+AR: حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمًا، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ ‏ الْمُسْلِمُ أَخُو الْمُسْلِمِ، لاَ يَظْلِمُهُ وَلاَ يُسْلِمُهُ، وَمَنْ كَانَ فِي حَاجَةِ أَخِيهِ كَانَ اللَّهُ فِي حَاجَتِهِ، وَمَنْ فَرَّجَ عَنْ مُسْلِمٍ كُرْبَةً فَرَّجَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرُبَاتِ يَوْمِ الْقِيَامَةِ، وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ ‏ ‏‏.‏
+EN: Narrated `Abdullah bin `Umar: Allah's Messenger (ﷺ)  said, "A Muslim is a brother of another Muslim, so he should not oppress him, nor should he hand him over to an oppressor. Whoever fulfilled the needs of his brother, Allah will fulfill his needs; whoever brought his (Muslim) brother out of a discomfort, Allah will bring him out of the discomforts of the Day of Resurrection, and whoever screened a Muslim, Allah will screen him on the Day of Resurrection . " 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 2442
+In-Book Reference: Book 46, Hadith 3
+USC-MSA web (English) reference: Vol. 3, Book 43, Hadith 622 (deprecated numbering scheme)
+
+=== bukhari 5971
+bukhari 5971 (urn 172750)
+AR grade: صحيح
+AR:  حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ بْنِ شُبْرُمَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَحَقُّ بِحُسْنِ صَحَابَتِي قَالَ ‏"‏ أُمُّكَ ‏"‏‏.‏ قَالَ ثُمَّ مَنْ قَالَ ‏"‏ أُمُّكَ ‏"‏‏.‏ قَالَ ثُمَّ مَنْ قَالَ ‏"‏ أُمُّكَ ‏"‏‏.‏ قَالَ ثُمَّ مَنْ قَالَ ‏"‏ ثُمَّ أَبُوكَ ‏"‏‏.‏ وَقَالَ ابْنُ شُبْرُمَةَ وَيَحْيَى بْنُ أَيُّوبَ حَدَّثَنَا أَبُو زُرْعَةَ مِثْلَهُ‏.‏ 
+EN: Narrated Abu Huraira: A man came to Allah's Messenger (ﷺ)  and said, "O Allah's Messenger (ﷺ) ! Who is more entitled to be treated with the best companionship by me?" The Prophet (ﷺ) said, "Your mother." The man said. "Who is next?" The Prophet (ﷺ) said, "Your mother." The man further said, "Who is next?" The Prophet (ﷺ) said, "Your mother." The man asked for the fourth time, "Who is next?" The Prophet (ﷺ) said, "Your father. " 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 5971
+In-Book Reference: Book 78, Hadith 2
+USC-MSA web (English) reference: Vol. 8, Book 73, Hadith 2 (deprecated numbering scheme)
+
+=== bukhari 6136
+bukhari 6136 (urn 174530)
+AR grade: صحيح
+AR: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ ‏ ‏‏.‏
+EN: Narrated Abu Huraira: The Prophet (ﷺ) said, "Whoever believes in Allah and the Last Day, should not hurt his neighbor and whoever believes in Allah and the Last Day, should serve his guest generously and whoever believes in Allah and the Last Day, should speak what is good or keep silent." 
+EN grade: Sahih
+REF: Sahih al-Bukhari, 6136
+In-Book Reference: Book 78, Hadith 163
+USC-MSA web (English) reference: Vol. 8, Book 73, Hadith 158 (deprecated numbering scheme)
+
+=== tirmidhi 1162
+tirmidhi 1162 (urn 711940)
+AR grade: 
+AR: حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ ‏ أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ خُلُقًا ‏ ‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَائِشَةَ وَابْنِ عَبَّاسٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏
+EN: Abu Hurairah narrated that The Messenger of Allah said: “The most complete of the believers in faith, is the one with the best character among them. And the best of you are those who are best to your women.” 
+EN grade: Hasan (Darussalam) 
+REF: Jami` at-Tirmidhi, 1162
+In-Book Reference: Book 12, Hadith 17
+English Reference: Vol. 1, Book 7, Hadith 1162
+
+=== abudawud 2118
+abudawud 2118 (urn 921210)
+AR grade: صحيح (الألباني) 
+AR:  حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، فِي خُطْبَةِ الْحَاجَةِ فِي النِّكَاحِ وَغَيْرِهِ ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ - الْمَعْنَى - حَدَّثَنَا وَكِيعٌ عَنْ إِسْرَائِيلَ عَنْ أَبِي إِسْحَاقَ عَنْ أَبِي الأَحْوَصِ وَأَبِي عُبَيْدَةَ عَنْ عَبْدِ اللَّهِ قَالَ عَلَّمَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم خُطْبَةَ الْحَاجَةِ ‏"‏ إِنَّ الْحَمْدَ لِلَّهِ نَسْتَعِينُهُ وَنَسْتَغْفِرُهُ وَنَعُوذُ بِهِ مِنْ شُرُورِ أَنْفُسِنَا مَنْ يَهْدِ اللَّهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلاَ هَادِيَ لَهُ وَأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ يَا أَيُّهَا الَّذِينَ آمَنُوا ‏{‏ اتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرْحَامَ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا ‏}‏ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلاَ تَمُوتُنَّ إِلاَّ وَأَنْتُمْ مُسْلِمُونَ ‏}‏ ‏{‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلاً سَدِيدًا * يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا ‏}‏ ‏.‏ لَمْ يَقُلْ مُحَمَّدُ بْنُ سُلَيْمَانَ إِنَّ ‏.‏ 
+EN: Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) taught us the address in case of some need:
+
+Praise be to Allah from Whom we ask help and pardon, and in Whom we take refuge from the evils within ourselves. He whom Allah guides has no one who can lead him astray, and he whom He leads astray has no one to guide him. I testify that there is no god but Allah, and I testify that Muhammad is His servant and Messenger.
+
+"You who believe,...fear Allah by Whom you ask your mutual rights, and reverence the wombs. Allah has been watching you." ..."you who believe, fear Allah as He should be feared, and die only as Muslims" ...."you who believe, fear Allah as He should be feared, and die only as Muslims"....."you who believe, fear Allah and say what is true. He will make your deeds sound, and forgive your sins. He who obeys Allah and His Messenger has achieved a mighty success."
+
+The narrator, Muhammad ibn Sulayman, did mention the word "inna" (verily). 
+EN grade: Sahih (Al-Albani) 
+REF: Sunan Abi Dawud, 2118
+In-Book Reference: Book 12, Hadith 73
+English Reference: Book 11, Hadith 2113
+
+=== bukhari 5186
+NOT FOUND
+=== muslim 1468
+NOT FOUND

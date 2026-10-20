@@ -1,0 +1,12 @@
+@font-face { font-family: "Amiri Quran"; src: url("../fonts/AmiriQuran.woff2") format("woff2"); }
+body { font-family: Georgia, "Times New Roman", serif; line-height: 1.5; margin: 0 4%; text-align: left; }
+h1 { font-size: 1.8em; text-align: center; margin-top: 3em; page-break-before: always; }
+h2 { font-size: 1.45em; margin-top: 1.5em; page-break-before: always; }
+h3 { font-size: 1.15em; margin-top: 1.4em; }
+h1.title, p.subtitle, p.author { text-align: center; }
+p.subtitle { font-style: italic; font-size: 1.2em; }
+blockquote { margin: 1.2em 0; padding: 0.6em 1em; border-left: 4px solid #8a6d3b; background: #f7f3ea; }
+.arabic { font-family: "Amiri Quran", "Amiri", "Scheherazade New", "Traditional Arabic", serif; font-size: 1.35em; line-height: 2.1; text-align: right; margin: 0.4em 0; }
+table { border-collapse: collapse; width: 100%; font-size: 0.9em; }
+th, td { border: 1px solid #bbb; padding: 0.3em 0.5em; vertical-align: top; }
+nav#toc ol { list-style-type: none; }
